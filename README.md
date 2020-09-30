@@ -4,7 +4,7 @@ In my Portfolio, you will learn a bit more about me and my future goals. My resp
 
 Deployed link:  https://albie140.github.io/
 
-![About Me Image](Asstes/AboutMe.png)
+![About Me Image](Assets/AboutMe.png)
 ![Portfolio Image](Assets/Portfolio.png)
 ![Contact Me Image](Assets/ContactMe.png)
 
