@@ -14,3 +14,11 @@ background-color:#000 !important
 .display-4{
     text-align: center;
 }
+h1{
+    text-align: center;
+}
+.card{
+    height:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
