@@ -22,3 +22,10 @@ h1{
     margin-left:auto;
     margin-right:auto;
 }
+.footer {
+    height:75px;
+    background-color:#000 !important;
+    text-align: center;
+    font-family: 'Arya';font-size: 22px;
+    color: white
+}
