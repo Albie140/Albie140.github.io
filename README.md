@@ -6,7 +6,6 @@ Deployed Link: https://albie140.github.io/index.html
 
 ![About Me Image](Assets/AboutMe.png)
 ![Portfolio Image](Assets/Portfolio.png)
-![Contact Me Image](Assets/ContactMe.png)
 
 
 ## Technologies Used
